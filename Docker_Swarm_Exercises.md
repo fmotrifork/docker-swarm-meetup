@@ -6,7 +6,7 @@
 >
 > **This means, that the exercise set is not a simple copy & paste exercise**
 
-## Table of content
+## Table of Contents
 
 * [About this exercise set](#about-this-exercise-set)
 * [Table of content](#table-of-content)
